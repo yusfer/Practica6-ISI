@@ -1,0 +1,2 @@
+
+	Yo pienso que no se podría porque estaríamos mezclando informaciones de relaciones diferentes, concretamente de las relaciones ES_EXPERTO y  PRUEBA.

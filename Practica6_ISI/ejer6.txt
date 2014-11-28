@@ -1,0 +1,9 @@
+	
+1-
+
+
+2-
+	Que precio no estuviera dentro de la relación VENDE de farmacias y medicamentos, si no que sea un valor propio del propio medicamento (como su nombre por ejemplo).
+
+3-
+	En vez de que fecha y cantidad pertenezcan a la relación RECETA, debería existir una entidad llamada receta que lo almacene.

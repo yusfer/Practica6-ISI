@@ -1,0 +1,8 @@
+
+1-
+	Suponemos que cada instrumento debe ser tocado por algún músico y que un músico toca al menos un instrumento e interpreta alguna canción (si no, vaya un músico...)
+
+	La relación Músico-produce-Álbum es simple, es decir, un músico puedo no producir ningún álbum (en el esquema puede que no se aprecie bien).
+
+2-
+	En principio todas las restricciones se han podido representar en el diagrama.
